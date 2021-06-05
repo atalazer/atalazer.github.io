@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VIM on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/categories/vim/</link>
+    <description>Recent content in VIM on Atalazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 May 2021 17:55:39 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/categories/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konfigurasi Tailwind CSS di Neovim</title>
+      <link>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</link>
+      <pubDate>Fri, 28 May 2021 17:55:39 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</guid>
+      <description>Cara Mengkonfigurasi Neovim untuk Koding Tailwind CSS</description>
+    </item>
+    
+    <item>
+      <title>Belajar VIM - part 1</title>
+      <link>https://atalazer.github.io/posts/belajar-vim-1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/belajar-vim-1/</guid>
+      <description> Baca Ini Dulu VIM Text Editor
+ Seputar Files  Save File, :write atau :w Edit/Load FIle, :edit atau :e Exit File, :quit atau :q  </description>
+    </item>
+    
+    <item>
+      <title>Vim/Neovim Text Editor</title>
+      <link>https://atalazer.github.io/posts/vim-text-editor/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/vim-text-editor/</guid>
+      <description>Pendahuluan Pada kesempatan kali ini saya akan membahas Text Editor yang setiap hari saya gunakan, yaitu VIM (lebih tepatnya Neovim)
+Apa itu VIM?  &amp;ldquo;Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.&amp;rdquo;
+- From vim.org
+ VIM atau singkatan dari VI iMproved adalah sebuah Text Editor yang minimal, cepat, ringan, dan efisien namun sangat fleksibel.
+VIM diciptakan oleh Bram Moolenaar yang terinspirasi oleh Text Edit VI yang ada di Unix oleh Bill Joy.</description>
+    </item>
+    
+  </channel>
+</rss>

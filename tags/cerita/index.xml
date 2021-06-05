@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cerita on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/tags/cerita/</link>
+    <description>Recent content in Cerita on Atalazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 May 2021 09:11:52 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/tags/cerita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal Linux</title>
+      <link>https://atalazer.github.io/posts/mengenal-linux/</link>
+      <pubDate>Fri, 14 May 2021 09:11:52 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/mengenal-linux/</guid>
+      <description>Awal Mula Mengenal Linux Di saat pandemi ini, saya mempunyai banyak waktu luang. Setiap harinya saya habiskan dengan menonton Anime, Film, Youtube-an, bermain games, dan iseng-iseng belajar programming. Hingga pada suatu saat, ketika saya sedang asik menonton video youtube dan browsing. Saya merasakan laptop saya dengan sistem operasi Windows dan spek kentang RAM 2GB dan CPU Intel Celeron N3050, berjalan sangat lambat. Akhirnya saya browsing di internet mengenai cara mempercepat laptop saya yang kentang.</description>
+    </item>
+    
+  </channel>
+</rss>

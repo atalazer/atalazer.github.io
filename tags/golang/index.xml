@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golang on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/tags/golang/</link>
+    <description>Recent content in Golang on Atalazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 - Variabel dan Tipe Data</title>
+      <link>https://atalazer.github.io/docs/go/basic/4-variabel-tipe-data/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/4-variabel-tipe-data/</guid>
+      <description>Pembuka </description>
+    </item>
+    
+    <item>
+      <title>3 - Program Pertama</title>
+      <link>https://atalazer.github.io/docs/go/basic/3-hello-world/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/3-hello-world/</guid>
+      <description>Pembuka Setelah kita melakukan instalasi Golang di OS kita, langkah selanjutnya adalah membuat program pertama kita, yaitu program Hello World.
+Sebelum kita membuat program pertama, kita harus menyiapkan Text Editor untuk menuliskan program pertama kita. Kalian bebas menggunakan Text Editor favorit kalian. Disini saya akan menggunakan Text Editor Vim.
+Inisialisasi Projek Sebelum mulai menuliskan program, kita juga harus melakukan inisialisasi program yang akan dibuat.
+Pada tutorial kali ini, kita akan melakukan inisialisasi program Hello World dengan menuliskan command di bawah ini di Terminal atau CMD kalian</description>
+    </item>
+    
+    <item>
+      <title>2 - Instalasi</title>
+      <link>https://atalazer.github.io/docs/go/basic/2-instalasi/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/2-instalasi/</guid>
+      <description>Pembuka sudo pacman -Syu go
+Sudah selesai. Sekian, Terima Kasih.</description>
+    </item>
+    
+    <item>
+      <title>1 - Introduce</title>
+      <link>https://atalazer.github.io/docs/go/basic/1-introduce/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/1-introduce/</guid>
+      <description>Apa Itu Golang? Golang ( atau biasa disebut go ) adalah bahasa pemrograman yang dikembangkan di Google oleh Robert Griesemer, Rob Pike, dan Ken Thompson pada tahun 2007 dan mulai diperkenalkan pada tahun 2009.
+Penciptaan bahasa Go didasari bahasa C dan C++, oleh karena itu gaya sintaksnya mirip.
+Kenapa Menggunakan Golang? Alasan kenapa kita belajar bahasa Go adalah karena kelebihannya dibandingkan bahasa pemrograman lainnya. Kelebihan tersebut antara lain.
+ Mendukung konkurensi di level bahasa dengan pengaplikasian cukup mudah Mendukung pemrosesan data dengan banyak prosesor dalam waktu yang bersamaan (pararel processing) Memiliki garbage collector Proses kompilasi sangat cepat Bukan bahasa pemrograman yang hirarkial, menjadikan developer tidak perlu ribet memikirkan segmen OOP-nya Package/modul yang disediakan terbilang lengkap.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Atalazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - Dasar HTML</title>
+      <link>https://atalazer.github.io/docs/html/1-dasar/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/1-dasar/</guid>
+      <description>Pembuka Pada kesempatan kali ini saya akan menjelasakan tentang dasar HTML.
+Struktur HTML &amp;lt;tagName atributeName=&amp;#34;atributeValue&amp;#34;&amp;gt; tagElement &amp;lt;/tagName&amp;gt; &amp;lt;!-- OR --&amp;gt; &amp;lt;tagName atributeName=&amp;#34;atributeValue&amp;#34;/&amp;gt; Penjelasan  &amp;lt;tagName&amp;gt;&amp;lt;/tagName&amp;gt; atau &amp;lt;tagName/&amp;gt; , menunjukan tag/markup yang digunakan. atributeName=&amp;quot;atributeValue&amp;quot;,  Merupakan informasi tambahan yang dimiliki suatu tag. Diletakan pada awal tag. Biasanya dalam bentuk pasangan name dan nilai ( name-value pairs).   tagElement, merupakan Isi dari suatu tag  HTML Comment Biasanya kita akan menuliskan Comment ke dalam kodingan kita untuk memberikan kejelasann tentang apa yang kita tuliskan.</description>
+    </item>
+    
+    <item>
+      <title>2 - Program Pertama Hello World</title>
+      <link>https://atalazer.github.io/docs/html/2-hello-world/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/2-hello-world/</guid>
+      <description>Pembuka Pada kesempatan kali ini kita akan membuat program pertama kita.
+Hello World  Buat file dengan ekstensi .html Buka file tersebut kemudian buka file tersebut dengan Text Editor Masukkan baris kode berikut ke Text Editor kalian:  &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Hello World&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Hello World&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Simpan file tersebut kemudian buka di Web Browser Hasilnya:   Penjelasan  &amp;lt;!DOCTYPE html&amp;gt;, mendeklarasikan versi HTML5 yang akan digunakan.</description>
+    </item>
+    
+    <item>
+      <title>3 - Heading</title>
+      <link>https://atalazer.github.io/docs/html/3-heading/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/3-heading/</guid>
+      <description>HTML Heading
+Baris Kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;HTML Heading&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Heading 1&amp;lt;/h1&amp;gt; &amp;lt;h2&amp;gt;Heading 2&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;Heading 3&amp;lt;/h3&amp;gt; &amp;lt;h4&amp;gt;Heading 4&amp;lt;/h4&amp;gt; &amp;lt;h5&amp;gt;Heading 5&amp;lt;/h5&amp;gt; &amp;lt;h6&amp;gt;Heading 6&amp;lt;/h6&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: </description>
+    </item>
+    
+    <item>
+      <title>4 - Paragraf</title>
+      <link>https://atalazer.github.io/docs/html/4-paragraf/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/4-paragraf/</guid>
+      <description>Paragraf pada HTML
+Baris Kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Paragraph&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Judul&amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt;paragraf 1&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;paragraf 2&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;paragraf 3&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;paragraf 4&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: </description>
+    </item>
+    
+    <item>
+      <title>5 - Text Formatting</title>
+      <link>https://atalazer.github.io/docs/html/5-text-format/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/5-text-format/</guid>
+      <description>Text Formatting pada HTML
+Baris Kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Text Formatting&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt; Ini &amp;lt;b&amp;gt;Bold&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;strong&amp;gt;Strong&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;i&amp;gt;Italic&amp;lt;/i&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;em&amp;gt;Em&amp;lt;/em&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;u&amp;gt;Underline&amp;lt;/u&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;small&amp;gt;Small&amp;lt;/small&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;sub&amp;gt;Subscripted&amp;lt;/sub&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;sup&amp;gt;Superscripted&amp;lt;/sup&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;ins&amp;gt;Insert&amp;lt;/ins&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;del&amp;gt;Delete&amp;lt;/del&amp;gt;&amp;lt;br&amp;gt; Ini &amp;lt;mark&amp;gt;Mark&amp;lt;/mark&amp;gt;&amp;lt;br&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: </description>
+    </item>
+    
+    <item>
+      <title>6 - List</title>
+      <link>https://atalazer.github.io/docs/html/6-list/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/6-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 - Image</title>
+      <link>https://atalazer.github.io/docs/html/8-image/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/8-image/</guid>
+      <description>Image pada HTML
+Tag &amp;lt;img&amp;gt; Pada HTML Baris kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Images&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;img src=&amp;#34;/path/to/image&amp;#34; alt=&amp;#34;image&amp;#34; title=&amp;#34;title&amp;#34;&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: Atribut Tag &amp;lt;img&amp;gt;  src=&amp;quot;&amp;quot;, Atribut Wajib yang berisi lokasi dari gambar. alt=&amp;quot;&amp;quot;, Atribut yang berisi text alternative jika gambar tidak tampil. title=&amp;quot;&amp;quot;, Atribut yang berisi text yang akan jika cursor berada di atas gambar height=&amp;quot;&amp;quot;, Atribut yang digunakan untuk mengatur tinggi gambar. width=&amp;quot;&amp;quot;, Atribut yang digunakan untuk mengatur lebar gambar.</description>
+    </item>
+    
+    <item>
+      <title>7 - Link</title>
+      <link>https://atalazer.github.io/docs/html/7-link/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/7-link/</guid>
+      <description>Link pada HTML
+Tag &amp;lt;a&amp;gt;&amp;lt;/a&amp;gt; Untuk Membuat Link Baris Kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Link&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;a href=&amp;#34;URL/1&amp;#34;&amp;gt;Ini Link 1&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&amp;#34;URL/2&amp;#34;&amp;gt;Ini Link 2&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&amp;#34;URL/3&amp;#34;&amp;gt;Ini Link 3&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: Atribut Target Baris Kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Link&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;a href=&amp;#34;URL/1&amp;#34; target=&amp;#34;_self&amp;#34;&amp;gt;Buka Link 1 di window/tab yang sama&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&amp;#34;URL/2&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;Buka Link 2 di window/tab yang baru&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&amp;#34;URL/3&amp;#34; target=&amp;#34;_parent&amp;#34;&amp;gt;Buka Link 3 di &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;a href=&amp;#34;URL/4&amp;#34; target=&amp;#34;_top&amp;#34;&amp;gt;Buka Link 4 di &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>9 - Table</title>
+      <link>https://atalazer.github.io/docs/html/9-table/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/9-table/</guid>
+      <description>Table pada HTML
+Table Baris kode:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Table&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;table border=&amp;#34;1&amp;#34; cellspacing=&amp;#34;0&amp;#34; cellpadding=&amp;#34;5&amp;#34;&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Baris 1, Kolom 1&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Baris 1, Kolom 2&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Baris 2, Kolom 1&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Baris 2, Kolom 2&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/table&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Hasil: Atribut border, cellspacing dan cellpadding  border, Atribut yang digunakan untuk memberi garis tepi pada tabel. cellspacing, Atribut yang digunakan untuk memberi jarak antar cell/data (td). cellpadding, Atribut yang digunakan untuk memberi jarak antara isi dengan garis tepi.</description>
+    </item>
+    
+    <item>
+      <title>10 - Form</title>
+      <link>https://atalazer.github.io/docs/html/10-form/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/html/10-form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belajar VIM - part 1</title>
+      <link>https://atalazer.github.io/posts/belajar-vim-1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/belajar-vim-1/</guid>
+      <description> Baca Ini Dulu VIM Text Editor
+ Seputar Files  Save File, :write atau :w Edit/Load FIle, :edit atau :e Exit File, :quit atau :q  </description>
+    </item>
+    
+    <item>
+      <title>Vim/Neovim Text Editor</title>
+      <link>https://atalazer.github.io/posts/vim-text-editor/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/vim-text-editor/</guid>
+      <description>Pendahuluan Pada kesempatan kali ini saya akan membahas Text Editor yang setiap hari saya gunakan, yaitu VIM (lebih tepatnya Neovim)
+Apa itu VIM?  &amp;ldquo;Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.&amp;rdquo;
+- From vim.org
+ VIM atau singkatan dari VI iMproved adalah sebuah Text Editor yang minimal, cepat, ringan, dan efisien namun sangat fleksibel.
+VIM diciptakan oleh Bram Moolenaar yang terinspirasi oleh Text Edit VI yang ada di Unix oleh Bill Joy.</description>
+    </item>
+    
+    <item>
+      <title>4 - Variabel dan Tipe Data</title>
+      <link>https://atalazer.github.io/docs/go/basic/4-variabel-tipe-data/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/4-variabel-tipe-data/</guid>
+      <description>Pembuka </description>
+    </item>
+    
+    <item>
+      <title>3 - Program Pertama</title>
+      <link>https://atalazer.github.io/docs/go/basic/3-hello-world/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/3-hello-world/</guid>
+      <description>Pembuka Setelah kita melakukan instalasi Golang di OS kita, langkah selanjutnya adalah membuat program pertama kita, yaitu program Hello World.
+Sebelum kita membuat program pertama, kita harus menyiapkan Text Editor untuk menuliskan program pertama kita. Kalian bebas menggunakan Text Editor favorit kalian. Disini saya akan menggunakan Text Editor Vim.
+Inisialisasi Projek Sebelum mulai menuliskan program, kita juga harus melakukan inisialisasi program yang akan dibuat.
+Pada tutorial kali ini, kita akan melakukan inisialisasi program Hello World dengan menuliskan command di bawah ini di Terminal atau CMD kalian</description>
+    </item>
+    
+    <item>
+      <title>2 - Instalasi</title>
+      <link>https://atalazer.github.io/docs/go/basic/2-instalasi/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/2-instalasi/</guid>
+      <description>Pembuka sudo pacman -Syu go
+Sudah selesai. Sekian, Terima Kasih.</description>
+    </item>
+    
+    <item>
+      <title>1 - Introduce</title>
+      <link>https://atalazer.github.io/docs/go/basic/1-introduce/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/docs/go/basic/1-introduce/</guid>
+      <description>Apa Itu Golang? Golang ( atau biasa disebut go ) adalah bahasa pemrograman yang dikembangkan di Google oleh Robert Griesemer, Rob Pike, dan Ken Thompson pada tahun 2007 dan mulai diperkenalkan pada tahun 2009.
+Penciptaan bahasa Go didasari bahasa C dan C++, oleh karena itu gaya sintaksnya mirip.
+Kenapa Menggunakan Golang? Alasan kenapa kita belajar bahasa Go adalah karena kelebihannya dibandingkan bahasa pemrograman lainnya. Kelebihan tersebut antara lain.
+ Mendukung konkurensi di level bahasa dengan pengaplikasian cukup mudah Mendukung pemrosesan data dengan banyak prosesor dalam waktu yang bersamaan (pararel processing) Memiliki garbage collector Proses kompilasi sangat cepat Bukan bahasa pemrograman yang hirarkial, menjadikan developer tidak perlu ribet memikirkan segmen OOP-nya Package/modul yang disediakan terbilang lengkap.</description>
+    </item>
+    
+  </channel>
+</rss>

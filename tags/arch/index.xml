@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arch on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/tags/arch/</link>
+    <description>Recent content in Arch on Atalazer&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 May 2021 09:12:02 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artix Linux - Migrasi dari Arch Linux</title>
+      <link>https://atalazer.github.io/posts/artix-linux-migrasi/</link>
+      <pubDate>Fri, 14 May 2021 09:12:02 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/artix-linux-migrasi/</guid>
+      <description>NOTE: Semua perintah di bawah ini dilakukan sebagai root Untuk itu, sebelumnya eksekusi perintah sudo su
+ Menyiapkan Repositori mv -vf /etc/pacman.conf /etc/pacman.conf.arch curl https://gitea.artixlinux.org/packagesP/pacman/raw/branch/master/trunk/pacman.conf -o /etc/pacman.conf mv -vf /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist-arch curl https://gitea.artixlinux.org/packagesA/artix-mirrorlist/raw/branch/master/trunk/mirrorlist -o /etc/pacman.d/mirrorlist cp -vf /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.artix Jika kamu menggunakan paket multilib, jangan lupa uncomment baris berikut di /etc/pacman.conf:
+[lib32] Include = /etc/pacman.d/mirrorlist [multilib] Include = /etc/pacman.d/mirrorlist-arch Membersihkan Paket dari Arch pacman -Scc &amp;amp;&amp;amp; pacman -Syy Menginstall Artix Keyring Menurunkan Security Level pacman # /etc/pacman.</description>
+    </item>
+    
+    <item>
+      <title>Tuning Linux (Archlinux)</title>
+      <link>https://atalazer.github.io/posts/tuning-linux/</link>
+      <pubDate>Fri, 14 May 2021 09:11:55 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/tuning-linux/</guid>
+      <description>Pada Kesempatan kali ini, saya akan membagikan pengalaman saya saat melakukan tuning (Arch)Linux.
+Apa itu Tuning? Tuning adalah sebuah cara yang dilakukan untuk mempercepat performa (Linux)
+Mengapa harus melakukan tuning? Alasan mengapa melakukan tuning adalah untuk mempercepat performa.
+Melakukan Tuning di (Arch)Linux Mengetahui Sistem Pertama, kita harus mengetahui tentang sistem yang kita gunakan. Untuk mengenal sistem apa yang digunakan, kita bisa mulai dengan bertanya dengan:
+ CPU apa yang digunakan? Berapa jumlah RAM yang ada?</description>
+    </item>
+    
+  </channel>
+</rss>
