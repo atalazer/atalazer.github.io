@@ -7,16 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/tags/text-editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Belajar VIM - part 1</title>
-      <link>https://atalazer.github.io/posts/belajar-vim-1/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://atalazer.github.io/posts/belajar-vim-1/</guid>
-      <description> Baca Ini Dulu VIM Text Editor
- Seputar Files  Save File, :write atau :w Edit/Load FIle, :edit atau :e Exit File, :quit atau :q  </description>
-    </item>
-    
-    <item>
       <title>Vim/Neovim Text Editor</title>
       <link>https://atalazer.github.io/posts/vim-text-editor/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>

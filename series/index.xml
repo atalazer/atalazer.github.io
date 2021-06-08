@@ -5,31 +5,13 @@
     <link>https://atalazer.github.io/series/</link>
     <description>Recent content in Series on Atalazer&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Belajar VIM</title>
-      <link>https://atalazer.github.io/series/belajar-vim/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://atalazer.github.io/series/belajar-vim/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belajar HTML</title>
       <link>https://atalazer.github.io/series/belajar-html/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://atalazer.github.io/series/belajar-html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Belajar Dasar Golang</title>
-      <link>https://atalazer.github.io/series/belajar-dasar-golang/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://atalazer.github.io/series/belajar-dasar-golang/</guid>
       <description></description>
     </item>
     

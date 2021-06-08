@@ -17,18 +17,5 @@
 [lib32] Include = /etc/pacman.d/mirrorlist [multilib] Include = /etc/pacman.d/mirrorlist-arch Membersihkan Paket dari Arch pacman -Scc &amp;amp;&amp;amp; pacman -Syy Menginstall Artix Keyring Menurunkan Security Level pacman # /etc/pacman.</description>
     </item>
     
-    <item>
-      <title>Tuning Linux (Archlinux)</title>
-      <link>https://atalazer.github.io/posts/tuning-linux/</link>
-      <pubDate>Fri, 14 May 2021 09:11:55 +0700</pubDate>
-      
-      <guid>https://atalazer.github.io/posts/tuning-linux/</guid>
-      <description>Pada Kesempatan kali ini, saya akan membagikan pengalaman saya saat melakukan tuning (Arch)Linux.
-Apa itu Tuning? Tuning adalah sebuah cara yang dilakukan untuk mempercepat performa (Linux)
-Mengapa harus melakukan tuning? Alasan mengapa melakukan tuning adalah untuk mempercepat performa.
-Melakukan Tuning di (Arch)Linux Mengetahui Sistem Pertama, kita harus mengetahui tentang sistem yang kita gunakan. Untuk mengenal sistem apa yang digunakan, kita bisa mulai dengan bertanya dengan:
- CPU apa yang digunakan? Berapa jumlah RAM yang ada?</description>
-    </item>
-    
   </channel>
 </rss>
