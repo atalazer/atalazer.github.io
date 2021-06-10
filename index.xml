@@ -5,7 +5,7 @@
     <link>https://atalazer.github.io/</link>
     <description>Recent content on Atalazer&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 May 2021 17:55:39 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 18:30:17 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0 - Introduce HTML</title>
       <link>https://atalazer.github.io/docs/html/0-intro/</link>
@@ -119,6 +119,15 @@ Table Baris kode:
       
       <guid>https://atalazer.github.io/docs/html/10-form/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Apa Itu URL?</title>
+      <link>https://atalazer.github.io/posts/apa-itu-url/</link>
+      <pubDate>Thu, 10 Jun 2021 18:30:17 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/apa-itu-url/</guid>
+      <description>Mengenal Pengertian dan Jenis-Jenis URL Saat Berselancar di Internet</description>
     </item>
     
     <item>

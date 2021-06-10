@@ -35,8 +35,11 @@
     <loc>https://atalazer.github.io/docs/html/10-form/</loc>
     <lastmod>2021-06-06T00:16:40+07:00</lastmod>
   </url><url>
+    <loc>https://atalazer.github.io/posts/apa-itu-url/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+  </url><url>
     <loc>https://atalazer.github.io/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,8 +51,11 @@
                 href="https://atalazer.github.io/"
                 />
   </url><url>
+    <loc>https://atalazer.github.io/tags/browser/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+  </url><url>
     <loc>https://atalazer.github.io/categories/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,20 +67,20 @@
                 href="https://atalazer.github.io/categories/"
                 />
   </url><url>
-    <loc>https://atalazer.github.io/tags/css/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <loc>https://atalazer.github.io/tags/domain/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
   </url><url>
-    <loc>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <loc>https://atalazer.github.io/tags/internet/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
   </url><url>
-    <loc>https://atalazer.github.io/tags/lsp/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <loc>https://atalazer.github.io/categories/internet/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/posts/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,6 +91,18 @@
                 hreflang="id"
                 href="https://atalazer.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://atalazer.github.io/tags/url/</loc>
+    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/tags/css/</loc>
+    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</loc>
+    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/tags/lsp/</loc>
+    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/tailwind-css/</loc>
     <lastmod>2021-06-06T00:16:40+07:00</lastmod>

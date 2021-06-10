@@ -5,7 +5,16 @@
     <link>https://atalazer.github.io/posts/</link>
     <description>Recent content in Posts on Atalazer&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 May 2021 17:55:39 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 18:30:17 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu URL?</title>
+      <link>https://atalazer.github.io/posts/apa-itu-url/</link>
+      <pubDate>Thu, 10 Jun 2021 18:30:17 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/apa-itu-url/</guid>
+      <description>Mengenal Pengertian dan Jenis-Jenis URL Saat Berselancar di Internet</description>
+    </item>
+    
     <item>
       <title>Konfigurasi Tailwind CSS di Neovim</title>
       <link>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</link>

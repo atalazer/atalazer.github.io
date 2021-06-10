@@ -5,7 +5,16 @@
     <link>https://atalazer.github.io/categories/</link>
     <description>Recent content in Categories on Atalazer&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 May 2021 17:55:39 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 18:30:17 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet</title>
+      <link>https://atalazer.github.io/categories/internet/</link>
+      <pubDate>Thu, 10 Jun 2021 18:30:17 +0700</pubDate>
+      
+      <guid>https://atalazer.github.io/categories/internet/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>VIM</title>
       <link>https://atalazer.github.io/categories/vim/</link>
