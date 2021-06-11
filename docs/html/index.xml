@@ -4,6 +4,10 @@
     <title>HTML on Atalazer&#39;s Blog</title>
     <link>https://atalazer.github.io/docs/html/</link>
     <description>Recent content in HTML on Atalazer&#39;s Blog</description>
+    <image>
+      <url>https://atalazer.github.io/img/home-sc.png</url>
+      <link>https://atalazer.github.io/img/home-sc.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://atalazer.github.io/docs/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0 - Introduce HTML</title>

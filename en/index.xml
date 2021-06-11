@@ -4,6 +4,10 @@
     <title>Atalazer&#39;s Blog</title>
     <link>https://atalazer.github.io/en/</link>
     <description>Recent content on Atalazer&#39;s Blog</description>
+    <image>
+      <url>https://atalazer.github.io/img/home-sc.png</url>
+      <link>https://atalazer.github.io/img/home-sc.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://atalazer.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     

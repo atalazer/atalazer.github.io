@@ -4,6 +4,10 @@
     <title>Arch on Atalazer&#39;s Blog</title>
     <link>https://atalazer.github.io/tags/arch/</link>
     <description>Recent content in Arch on Atalazer&#39;s Blog</description>
+    <image>
+      <url>https://atalazer.github.io/img/home-sc.png</url>
+      <link>https://atalazer.github.io/img/home-sc.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 14 May 2021 09:12:02 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/tags/arch/index.xml" rel="self" type="application/rss+xml" />
     <item>
