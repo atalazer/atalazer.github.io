@@ -47,20 +47,20 @@
     </item>
     
     <item>
-      <title>Dark</title>
-      <link>https://atalazer.github.io/tags/dark/</link>
+      <title>Gelap</title>
+      <link>https://atalazer.github.io/tags/gelap/</link>
       <pubDate>Fri, 11 Jun 2021 09:11:24 +0700</pubDate>
       
-      <guid>https://atalazer.github.io/tags/dark/</guid>
+      <guid>https://atalazer.github.io/tags/gelap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Light</title>
-      <link>https://atalazer.github.io/tags/light/</link>
+      <title>Kesehatan</title>
+      <link>https://atalazer.github.io/tags/kesehatan/</link>
       <pubDate>Fri, 11 Jun 2021 09:11:24 +0700</pubDate>
       
-      <guid>https://atalazer.github.io/tags/light/</guid>
+      <guid>https://atalazer.github.io/tags/kesehatan/</guid>
       <description></description>
     </item>
     
@@ -74,29 +74,20 @@
     </item>
     
     <item>
-      <title>Pilihan</title>
-      <link>https://atalazer.github.io/tags/pilihan/</link>
+      <title>Tema</title>
+      <link>https://atalazer.github.io/tags/tema/</link>
       <pubDate>Fri, 11 Jun 2021 09:11:24 +0700</pubDate>
       
-      <guid>https://atalazer.github.io/tags/pilihan/</guid>
+      <guid>https://atalazer.github.io/tags/tema/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preferensi</title>
-      <link>https://atalazer.github.io/tags/preferensi/</link>
+      <title>Terang</title>
+      <link>https://atalazer.github.io/tags/terang/</link>
       <pubDate>Fri, 11 Jun 2021 09:11:24 +0700</pubDate>
       
-      <guid>https://atalazer.github.io/tags/preferensi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://atalazer.github.io/tags/theme/</link>
-      <pubDate>Fri, 11 Jun 2021 09:11:24 +0700</pubDate>
-      
-      <guid>https://atalazer.github.io/tags/theme/</guid>
+      <guid>https://atalazer.github.io/tags/terang/</guid>
       <description></description>
     </item>
     
@@ -164,7 +155,7 @@
     </item>
     
     <item>
-      <title>VIM</title>
+      <title>Vim</title>
       <link>https://atalazer.github.io/tags/vim/</link>
       <pubDate>Fri, 28 May 2021 17:55:39 +0700</pubDate>
       
@@ -218,6 +209,15 @@
     </item>
     
     <item>
+      <title>Neovim</title>
+      <link>https://atalazer.github.io/tags/neovim/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/tags/neovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://atalazer.github.io/tags/programming/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
@@ -236,29 +236,20 @@
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://atalazer.github.io/tags/html/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <title>Cerita</title>
+      <link>https://atalazer.github.io/tags/cerita/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://atalazer.github.io/tags/html/</guid>
+      <guid>https://atalazer.github.io/tags/cerita/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Markup</title>
-      <link>https://atalazer.github.io/tags/markup/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <title>Open Source</title>
+      <link>https://atalazer.github.io/tags/open-source/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://atalazer.github.io/tags/markup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://atalazer.github.io/tags/web/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://atalazer.github.io/tags/web/</guid>
+      <guid>https://atalazer.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     

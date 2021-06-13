@@ -11,16 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/tags/text-editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Belajar Vim - part 1</title>
+      <link>https://atalazer.github.io/posts/belajar-vim-1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/belajar-vim-1/</guid>
+      <description>Belajar Menggunakan Vim Bagian 1 - Basic Movement dan Command</description>
+    </item>
+    
+    <item>
       <title>Vim/Neovim Text Editor</title>
       <link>https://atalazer.github.io/posts/vim-text-editor/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://atalazer.github.io/posts/vim-text-editor/</guid>
-      <description>Pendahuluan Pada kesempatan kali ini saya akan membahas Text Editor yang setiap hari saya gunakan, yaitu VIM (lebih tepatnya Neovim)
-Apa itu VIM?  &amp;ldquo;Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.&amp;rdquo;
-- From vim.org
- VIM atau singkatan dari VI iMproved adalah sebuah Text Editor yang minimal, cepat, ringan, dan efisien namun sangat fleksibel.
-VIM diciptakan oleh Bram Moolenaar yang terinspirasi oleh Text Edit VI yang ada di Unix oleh Bill Joy.</description>
+      <description>Mengenalkan Text Editor Vim/Neovim yang Katanya Susah</description>
     </item>
     
   </channel>

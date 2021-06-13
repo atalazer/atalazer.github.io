@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Belajar VIM on Atalazer&#39;s Blog</title>
+    <title>Belajar Vim on Atalazer&#39;s Blog</title>
     <link>https://atalazer.github.io/series/belajar-vim/</link>
-    <description>Recent content in Belajar VIM on Atalazer&#39;s Blog</description>
+    <description>Recent content in Belajar Vim on Atalazer&#39;s Blog</description>
+    <image>
+      <url>https://atalazer.github.io/img/home-sc.png</url>
+      <link>https://atalazer.github.io/img/home-sc.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/series/belajar-vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Belajar VIM - part 1</title>
+      <title>Belajar Vim - part 1</title>
       <link>https://atalazer.github.io/posts/belajar-vim-1/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://atalazer.github.io/posts/belajar-vim-1/</guid>
-      <description> Baca Ini Dulu VIM Text Editor
- Seputar Files  Save File, :write atau :w Edit/Load FIle, :edit atau :e Exit File, :quit atau :q  </description>
+      <description>Belajar Menggunakan Vim Bagian 1 - Basic Movement dan Command</description>
     </item>
     
   </channel>

@@ -31,5 +31,14 @@
 [lib32] Include = /etc/pacman.d/mirrorlist [multilib] Include = /etc/pacman.d/mirrorlist-arch Membersihkan Paket dari Arch pacman -Scc &amp;amp;&amp;amp; pacman -Syy Menginstall Artix Keyring Menurunkan Security Level pacman # /etc/pacman.</description>
     </item>
     
+    <item>
+      <title>Mengenal Linux</title>
+      <link>https://atalazer.github.io/posts/mengenal-linux/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/mengenal-linux/</guid>
+      <description>Awal Mula Saya Mengenal Sistem Operasi Linux dan Aplikasi Open Source</description>
+    </item>
+    
   </channel>
 </rss>
