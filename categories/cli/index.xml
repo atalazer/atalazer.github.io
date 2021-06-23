@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CLI on Atalazer&#39;s Blog</title>
+    <link>https://atalazer.github.io/categories/cli/</link>
+    <description>Recent content in CLI on Atalazer&#39;s Blog</description>
+    <image>
+      <url>https://atalazer.github.io/img/home-sc.png</url>
+      <link>https://atalazer.github.io/img/home-sc.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/categories/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bisakah Presentasi di Terminal?</title>
+      <link>https://atalazer.github.io/posts/presentasi-terminal/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/presentasi-terminal/</guid>
+      <description>2 Tools CLI Keren Untuk Melakukan Presentasi di Terminal</description>
+    </item>
+    
+  </channel>
+</rss>

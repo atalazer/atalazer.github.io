@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://atalazer.github.io/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,11 @@
                 href="https://atalazer.github.io/"
                 />
   </url><url>
-    <loc>https://atalazer.github.io/tags/bash/</loc>
-    <lastmod>2021-06-11T16:04:34+07:00</lastmod>
+    <loc>https://atalazer.github.io/posts/presentasi-terminal/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/categories/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,8 +31,14 @@
                 href="https://atalazer.github.io/categories/"
                 />
   </url><url>
+    <loc>https://atalazer.github.io/tags/cli/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/categories/cli/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
+  </url><url>
     <loc>https://atalazer.github.io/posts/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,11 +50,11 @@
                 href="https://atalazer.github.io/posts/"
                 />
   </url><url>
-    <loc>https://atalazer.github.io/tags/shell/</loc>
-    <lastmod>2021-06-11T16:04:34+07:00</lastmod>
+    <loc>https://atalazer.github.io/tags/presentasi/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +65,18 @@
                 hreflang="id"
                 href="https://atalazer.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://atalazer.github.io/tags/terminal/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/tags/tools/</loc>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/tags/bash/</loc>
+    <lastmod>2021-06-11T16:04:34+07:00</lastmod>
+  </url><url>
+    <loc>https://atalazer.github.io/tags/shell/</loc>
+    <lastmod>2021-06-11T16:04:34+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/zinit/</loc>
     <lastmod>2021-06-11T16:04:34+07:00</lastmod>
@@ -104,64 +122,64 @@
     <lastmod>2021-06-13T21:15:49+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/posts/apa-itu-url/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/browser/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/domain/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/internet/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/categories/internet/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/url/</loc>
-    <lastmod>2021-06-10T19:38:24+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/css/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/posts/konfigurasi-tailwindcss-neovim/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/lsp/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/tailwind-css/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/vim/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/categories/vim/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/artix/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/posts/artix-linux-berpindah-init/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/init/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/linux/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/categories/linux/</loc>
-    <lastmod>2021-06-13T21:15:49+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/arch/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/posts/artix-linux-migrasi/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/tags/migrasi/</loc>
-    <lastmod>2021-06-06T00:16:40+07:00</lastmod>
+    <lastmod>2021-06-23T14:57:04+07:00</lastmod>
   </url><url>
     <loc>https://atalazer.github.io/series/belajar-vim/</loc>
     <lastmod>2021-06-13T21:15:49+07:00</lastmod>

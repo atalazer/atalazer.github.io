@@ -9,7 +9,16 @@
       <link>https://atalazer.github.io/img/home-sc.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Jun 2021 09:12:11 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bisakah Presentasi di Terminal?</title>
+      <link>https://atalazer.github.io/posts/presentasi-terminal/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/posts/presentasi-terminal/</guid>
+      <description>2 Tools CLI Keren Untuk Melakukan Presentasi di Terminal</description>
+    </item>
+    
     <item>
       <title>Zsh Zinit Lama Saat Init</title>
       <link>https://atalazer.github.io/posts/zsh-zinit-lama-saat-init/</link>
@@ -53,7 +62,7 @@
       
       <guid>https://atalazer.github.io/posts/artix-linux-berpindah-init/</guid>
       <description>NOTE: Semua perintah di bawah ini dilakukan sebagai root Untuk itu, sebelumnya eksekusi perintah sudo su
- Menginstall Artix Package Mendownload Artix Package openrc pacman -Sw base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles runit pacman -Sw base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles s6 pacman -Sw base base-devel s6-system grub linux linux-headers s6 elogind-s6 grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles Menginstall Init openrc pacman -S base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles runit pacman -S base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles s6 pacman -S base base-devel s6-system grub linux linux-headers s6 elogind-s6 grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles Menginstall dan Mengaktifkan Init Script pacman -S --needed acpid-init alsa-utils-init autofs-init cronie-init cups-init fuse-init haveged-init hdparm-init openssh-init samba-init syslog-ng-init  Ganti dengan openrc/runit/s6</description>
+ Menginstall Artix Package Mendownload Artix Package openrc pacman -Sw base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles runit pacman -Sw base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles s6 pacman -Sw base base-devel s6-system grub linux linux-headers s6 elogind-s6 grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles Menginstall Init openrc pacman -S base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles runit pacman -S base base-devel openrc-system grub linux linux-headers elogind-openrc openrc netifrc grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles s6 pacman -S base base-devel s6-system grub linux linux-headers s6 elogind-s6 grub mkinitcpio archlinux-mirrorlist net-tools rsync nano lsb-release esysusers etmpfiles Menginstall dan Mengaktifkan Init Script pacman -S --needed acpid-init alsa-utils-init autofs-init cronie-init cups-init fuse-init haveged-init hdparm-init openssh-init samba-init syslog-ng-init  Ganti init dengan openrc/runit/s6</description>
     </item>
     
     <item>

@@ -9,7 +9,16 @@
       <link>https://atalazer.github.io/img/home-sc.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Jun 2021 09:12:11 +0700</lastBuildDate><atom:link href="https://atalazer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://atalazer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLI</title>
+      <link>https://atalazer.github.io/categories/cli/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atalazer.github.io/categories/cli/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Zsh</title>
       <link>https://atalazer.github.io/categories/zsh/</link>
